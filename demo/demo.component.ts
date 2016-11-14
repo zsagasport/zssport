@@ -66,6 +66,24 @@ import {Component} from '@angular/core';
               </div>
           </div>
       </div>
+
+       <div class="panel panel-default">
+        <div class="panel-heading">
+          <h2>Table</h2>
+        </div>
+        <div class="panel-body">
+          <div class="col-md-12">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                  <h2></h2>
+              </div>
+              <div class="panel-body">
+                  <zssport-table></zssport-table>
+              </div>
+            </div>
+          </div> 
+        </div>
+      </div>
     `
 })
 
